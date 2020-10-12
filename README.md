@@ -26,7 +26,7 @@ Check `CURL` version on the OS should be higher than `7.6` and the dependencies.
 $ curl --version
 ```
 
->> Note: You might need help of someone BASIS on this. In case you are using old kernel you might also need to install/update.
+> Note: You might need help of someone BASIS on this. In case you are using old kernel you might also need to install/update.
 
 Other dependencies (mostly comes with `CURL`):
 - OpenSSL/1.1.1f
