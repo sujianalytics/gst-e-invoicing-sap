@@ -1,5 +1,5 @@
-# GST E-Invoicing GSP API Connectivity Solution for SAP
-Suji Analytics introduced an Open-Source, Plug-n-Play Solution to connect with your GSP API from SAP and other ERP system which has no conflict with SAP Compliance.
+# GST E-Invoice Solution for SAP to connect GSP API
+Suji Analytics introduced an Open Source GST E-Invoice Solution for SAP, it is a Plug-n-Play Solution to connect with your GSP API from SAP and other ERP system which has no conflict with SAP Compliance.
 
 [![Suji Analytics](http://sujianalytics.com/assets/images/logo.png)](http://sujianalytics.com/e-invoicing/)
 
