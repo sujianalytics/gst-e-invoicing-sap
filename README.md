@@ -50,4 +50,4 @@ Now let's copy the solution to system via SAP.
 
 Create a report with name `zgsp_api_connect` and copy-paste the code from `zgsp_api_connect.abap` (open `.abap` file with notepad).
 
-For more information visit sujianalytics.com
+For more information visit [https://sujianalytics.com/e-invoicing/](https://sujianalytics.com/e-invoicing/)
